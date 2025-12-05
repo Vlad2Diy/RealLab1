@@ -10,4 +10,4 @@ MyDovhyiApp::LoggerManager.init_logger(config)
 MyDovhyiApp::LoggerManager.log_processed_file("Test message")
 MyDovhyiApp::LoggerManager.log_error("Test error")
 
-
+d

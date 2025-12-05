@@ -1,0 +1,4 @@
+--- !ruby/object:MyDovhyiApp::Item
+key: item_2
+value: 16
+description: Test item 2

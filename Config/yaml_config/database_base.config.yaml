@@ -1,0 +1,2 @@
+database_type: 'sqlite'
+sqlite_file: 'output/items.db'
